@@ -1,2 +1,3 @@
 用户名 Username
-密码 Password
+密码 Passwords
+主页 Homepage
